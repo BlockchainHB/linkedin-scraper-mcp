@@ -1,23 +1,19 @@
 {
-	"name": "remote-mcp-server-authless",
+	"name": "linkedin-scraper-mcp",
 	"version": "1.0.0",
-	"description": "Serverless Model Context Protocol server with job market intelligence capabilities",
+	"description": "MCP server for job scraping via Apify",
 	"author": "BlockchainHB",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/BlockchainHB/remote-mcp-server-authless.git"
+		"url": "https://github.com/BlockchainHB/linkedin-scraper-mcp.git"
 	},
 	"keywords": [
 		"mcp",
-		"model-context-protocol",
-		"ai-agents",
 		"cloudflare-workers",
 		"job-scraping",
-		"linkedin-api",
-		"indeed-api",
-		"serverless",
-		"typescript"
+		"linkedin",
+		"indeed"
 	],
 	"private": false,
 	"scripts": {
